@@ -1,11 +1,5 @@
 # 💫 About Me:
-<b>Hi there 👋 I'm  
-███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ██╗ █████╗  ██████╗
- ██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗  ██║██╔══██╗██╔════╝
- ███████╗███████║██║██║   ██║███████║██╔██╗ ██║███████║██║  ███╗
- ╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██╔══██║██║   ██║
- ███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║ ╚████║██║  ██║╚██████╔╝
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝<br><br>🎓 BCA Graduate (2024) | 💻 Aspiring Full Stack Web Developer | 🚀 Lifelong Learner<br><br>I'm passionate about building modern, responsive, and user-friendly web applications. I'm currently focused on strengthening my skills in full stack development, software engineering, and AI-powered applications while preparing for entry-level software development opportunities.<br>and AI-powered applications while preparing for entry-level software development opportunities.<br>💻 Interested in Web Development & AI Tools<br>🧠 Exploring Prompt Engineering & Automation<br>⚡ Love building real-world projects (Web Apps, Tools, UI Systems)<br>📈 Always learning and improving<br>🛠️ Tech Stack<b>
+<b>Hi there 👋 I'm <br>SHIVANAG R SHET<br>🎓 BCA Graduate (2024) | 💻 Aspiring Full Stack Web Developer | 🚀 Lifelong Learner<br><br>I'm passionate about building modern, responsive, and user-friendly web applications. I'm currently focused on strengthening my skills in full stack development, software engineering, and AI-powered applications while preparing for entry-level software development opportunities.<br>and AI-powered applications while preparing for entry-level software development opportunities.<br>💻 Interested in Web Development & AI Tools<br>🧠 Exploring Prompt Engineering & Automation<br>⚡ Love building real-world projects (Web Apps, Tools, UI Systems)<br>📈 Always learning and improving<br>🛠️ Tech Stack<b>
 
 
 ## 🌐 Socials:
